@@ -1,9 +1,22 @@
-大数据
 数据智能
+AI平台
+智能客服
+智能政务
 
 DeepSeek
-梁文锋
 
+PAI
+DataWorks
+一体化平台
++阿里云
+
+华为
+腾讯
+字节跳动
+百度
++数据平台
+
+微软
 谷歌
 google
 gemini
