@@ -39,6 +39,10 @@ chatgpt
 openai
 sora
 
+数据
+AI
++开源
+
 claude
 Anthropic
 +AI
